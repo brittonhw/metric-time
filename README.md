@@ -1,2 +1,2 @@
 # metric-time
-implementation of the mour
+implementation of the metric-hour (the mour)
