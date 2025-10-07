@@ -1,6 +1,6 @@
 # metric-time
 
-While we don't know _why_ humans exist, we need not to subject ourselves to a deeply flawed and nonsensical timekeeping system. Gone are the horrors of 60s and 24s, of seconds and minutes, and rejoice in the glory the our metric time system, and its principle unit, the _**Mour**_ (derived from metric-hour). 
+While we don't know _why_ humans exist, we need not subject ourselves to a deeply flawed and nonsensical timekeeping system. Gone are the horrors of 60s and 24s, of seconds and minutes, and rejoice in the glory our metric time system, and its principle unit, the _**Mour**_ (derived from metric-hour). 
 
 ### Ok so what is the mour then?
 
