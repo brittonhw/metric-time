@@ -1,2 +1,5 @@
 # metric-time
 implementation of the metric-hour (the mour)
+
+
+https://gitkraken.dev/link/dnNjb2RlOi8vZWFtb2Rpby5naXRsZW5zL2xpbmsvci83MTcxZmQ0ZmU4YWIxZGZkNjU1ZjE1MDQyMWYxZDYxODk0OWUwM2RjL2YvbW91ci9tb3VyLnB5P3VybD1odHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZicml0dG9uaHclMkZtZXRyaWMtdGltZS5naXQmbGluZXM9MTE%3D?origin=gitlens
